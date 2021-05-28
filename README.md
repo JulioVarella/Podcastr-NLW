@@ -1,2 +1,2 @@
 # Podcastr-NLW
-Site desenvolvido na 5ª edição da Next Level Week feita pela Rocketseat, na trilha ReactJS.
+Site desenvolvido utilizando TypeScript, React e Node na 5ª edição da Next Level Week, curso da Rocketseat, na trilha ReactJS.
